@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Dados brutos
+*.parquet
+*.geojson
+
+# OS
+.DS_Store
+Thumbs.db
